@@ -1,0 +1,47 @@
+body{
+  widht: 100%
+  font-family: montserrat;
+}
+.secem{
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+.nave{
+  font-size: 3rem;
+  padding: 0 5rem;
+  font-weight: bold;
+}
+
+.phuto{
+  width: 95%;
+  height: 95%;
+}
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+    box-shadow: 10px 10px 8px #888888;
+}
+.heade{
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-align: center;
+  font-size: 1.7rem;
+}
+.image{
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+.news{
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+img {
+  border: 0.2rem solid black;
+}
+.card-text{
+  text-align: justify;
+}
+.btn{
+  margin-left: 0.5rem;
+  margin-bottom: 1rem;
+}
